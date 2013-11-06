@@ -1,0 +1,23 @@
+body {
+    background-color: black ! important;
+    color: #276EE8 ! important;
+    margin:0px;
+}
+
+html, body{
+  height:100%;
+  width:100%;
+}
+
+#DigiRain{
+  height:100%;
+  width:100%;
+  overflow:hidden;
+  color:#20F54A;
+  background-color: #000000;
+  font-size:14px;
+}
+
+root { 
+    display: block;
+}
